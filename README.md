@@ -173,8 +173,8 @@ The pipeline automatically:
 
 ## 📧 Contact
 
-**GitHub:** [@YOUR-USERNAME](https://github.com/ghorpadeire)  
-**LinkedIn:** [Your LinkedIn](https://linkedin.com/in/pranav-ire)  
+**GitHub:** [@Pranav Ghorpade](https://github.com/ghorpadeire)  
+**LinkedIn:** [Pranav Ghorpade](https://linkedin.com/in/pranav-ire)  
 **Email:** pranav.ghorpade3108@gmail.com
 
 ---
